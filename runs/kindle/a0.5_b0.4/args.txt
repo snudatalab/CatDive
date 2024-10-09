@@ -1,0 +1,17 @@
+alpha,0.5
+batch_size,128
+beta,-1
+dataset,kindle
+device,cuda
+dir,a0.5_b0.4
+dropout_rate,0.2
+hidden_units,128
+l2_emb,0.001
+lamb,0
+lr,0.001
+num_blocks,2
+num_epochs,10000
+num_heads,1
+seed,2024
+test,True
+topk,10
